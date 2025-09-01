@@ -141,34 +141,6 @@ CREATE TABLE book (
 );
 ```
 
-## 🌐 API REST Endpoints
-
-| Método | Endpoint | Descripción |
-|--------|----------|-------------|
-| `GET` | `/api/books` | Listar todos los libros |
-| `GET` | `/api/books/{id}` | Obtener libro por ID |
-| `POST` | `/api/books` | Crear nuevo libro |
-| `PUT` | `/api/books/{id}` | Actualizar libro |
-| `DELETE` | `/api/books/{id}` | Eliminar libro |
-
-### Ejemplo de uso:
-```bash
-# Listar libros
-curl http://localhost:8080/api/books
-
-# Crear libro
-curl -X POST http://localhost:8080/api/books \
-  -H "Content-Type: application/json" \
-  -d '{
-    "title": "El Quijote",
-    "author": "Miguel de Cervantes",
-    "isbn": "978-84-376-0494-7",
-    "price": 25.99,
-    "stock": 10,
-    "description": "La obra cumbre de la literatura española"
-  }'
-```
-
 ## 🖼️ Interfaces Gráficas
 
 ### 1. BookstoreMainFrame
