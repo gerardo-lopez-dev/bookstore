@@ -4,7 +4,6 @@ Una aplicación completa de gestión de librería desarrollada con **Spring Boot
 
 ## 🎯 Características
 
-- **🌐 API REST**: Endpoints completos para gestión de libros
 - **🖥️ Interfaz Gráfica**: Aplicación Swing para gestión visual
 - **💾 Base de Datos**: H2 Database con persistencia
 - **🔄 Spring Boot**: Framework moderno con auto-configuración
