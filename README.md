@@ -8,7 +8,6 @@ Una aplicación completa de gestión de librería desarrollada con **Spring Boot
 - **💾 Base de Datos**: H2 Database con persistencia
 - **🔄 Spring Boot**: Framework moderno con auto-configuración
 - **📊 JPA/Hibernate**: ORM para manejo de datos
-- **🧪 Testing**: Pruebas unitarias y de integración
 - **🛠️ Maven**: Gestión de dependencias y build
 
 ## 🏗️ Arquitectura
