@@ -218,18 +218,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - [H2 Database](https://www.h2database.com/)
 - [Java Swing Tutorial](https://docs.oracle.com/javase/tutorial/uiswing/)
 - [Maven Documentation](https://maven.apache.org/guides/)
-
-## 📈 Roadmap
-
-- [ ] Implementar autenticación y autorización
-- [ ] Agregar API de categorías
-- [ ] Implementar sistema de reservas
-- [ ] Añadir notificaciones en tiempo real
-- [ ] Crear dashboard de analytics
-- [ ] Implementar sistema de reportes
-- [ ] Añadir soporte para múltiples idiomas
-- [ ] Crear aplicación móvil
-
 ---
 
 ⭐ **¡No olvides dar una estrella al proyecto si te resulta útil!** ⭐
