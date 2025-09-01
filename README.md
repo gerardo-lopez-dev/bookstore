@@ -159,19 +159,6 @@ CREATE TABLE book (
 - Acceso a todos los servicios
 - Configuración automática
 
-## 🧪 Testing
-
-```bash
-# Ejecutar todos los tests
-./mvnw test
-
-# Tests con reporte de cobertura
-./mvnw clean test jacoco:report
-
-# Ver reporte de cobertura
-open target/site/jacoco/index.html
-```
-
 ## 🐛 Desarrollo
 
 ### Modo Desarrollo
